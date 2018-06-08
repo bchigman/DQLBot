@@ -1,0 +1,11 @@
+{
+  "name": "DQL-Bot",
+  "version": "1.0.0",
+  "description": "DQL Guild Discord Bot",
+  "main": "bot.js",
+  "author": "Ben Higman",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.1"
+  }
+}
