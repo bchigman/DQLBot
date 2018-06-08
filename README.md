@@ -1,0 +1,2 @@
+# DQLBot
+Simple discord bot
